@@ -1,0 +1,11 @@
+{
+  "name": "issue91",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fabrizio Ruggeri",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.9.29",
+    "mongoose-sequence": "^5.2.2"
+  }
+}
